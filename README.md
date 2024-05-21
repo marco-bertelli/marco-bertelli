@@ -7,7 +7,8 @@
 
 - ⚡ Fun fact **I love dolphins**
 
-[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
-[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+[![marco-bertelli's GitHub | Stats](https://stats.quine.sh/marco-bertelli/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=marco-bertelli)
+[![marco-bertelli's GitHub | Topics Over Time](https://stats.quine.sh/marco-bertelli/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=marco-bertelli)
+[![marco-bertelli's GitHub | Languages Over Time](https://stats.quine.sh/marco-bertelli/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=marco-bertelli)
 
 
