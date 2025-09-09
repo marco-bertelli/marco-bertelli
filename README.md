@@ -53,12 +53,12 @@ This is a snapshot of the tools and technologies I use regularly.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br><b>Docker</b>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="PostgreSQL" />
         <br><b>MongoDB</b>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br><b>Git</b>
