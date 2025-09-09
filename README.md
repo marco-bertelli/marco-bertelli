@@ -88,8 +88,6 @@ This is a snapshot of the tools and technologies I use regularly.
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=marco-bertelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Marco Bertelli's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-bertelli&layout=compact&langs_count=8&theme=tokyonight" alt="Marco Bertelli's Top Languages" />
 
